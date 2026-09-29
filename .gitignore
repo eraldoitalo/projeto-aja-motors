@@ -1,0 +1,25 @@
+# Ambiente virtual
+.venv/
+
+# Variáveis de ambiente
+.env
+
+# Banco de dados local
+*.db
+database/*.db
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Django
+staticfiles/
+media/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
